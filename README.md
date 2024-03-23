@@ -42,7 +42,7 @@ Next, connect to your server using a VNC client. Here’s how:
 2. Create an account or log in if you already have one.
 3. Launch the installed RealVNC Viewer and log in.
 
-To connect, enter your server's IP address followed by ':5900' in the connect field. For instance, if the port is set to 5901 due to a misconfiguration, use ':5901' instead.
+To connect, enter your server's IP address followed by ':5901' in the connect field.
 <img width="717" alt="image" src="https://github.com/paulsung97/How_to_use_VNC/assets/63456050/03a95633-8e9d-4e87-935d-2990757cdafa">
 ## Step 5: Initial Connection and Script Modification
 
