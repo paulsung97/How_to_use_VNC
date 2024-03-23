@@ -95,4 +95,3 @@ This command checks if the VNC server is listening on port 5900. If there's a ne
 
 ---
 
-Feel free to adapt this template to match your specific needs or preferences!
