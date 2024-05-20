@@ -43,7 +43,7 @@ Next, connect to your server using a VNC client. Here’s how:
 3. Launch the installed RealVNC Viewer and log in.
 
 To connect, enter your server's IP address followed by ':5901' in the connect field.
-<img width="717" alt="image" src="https://github.com/paulsung97/How_to_use_VNC/assets/63456050/03a95633-8e9d-4e87-935d-2990757cdafa">
+
 ## Step 5: Initial Connection and Script Modification
 
 Upon connecting for the first time, you might encounter a grey screen. To resolve this, execute the following command in your server terminal to kill the current VNC session:
